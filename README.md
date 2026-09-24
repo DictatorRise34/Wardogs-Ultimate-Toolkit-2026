@@ -63,7 +63,7 @@ A helper script is included for transparency:
 
 ## 🔑 SEO Keywords
 
-`WARDOGS trainer`, `WARDOGS cheats`, `unlimited ammo`, `ESP`, `wallhack`, `WARDOGS hack 2026`
+`WARDOGS trainer`, `WARDOGS cheats`, `WARDOGS hack 2026`, `WARDOGS toolkit`, `WARDOGS assistant`, `unlimited ammo`, `unlimited health`, `god mode`, `ESP`, `wallhack`, `radar hack`, `speed hack`, `no recoil`, `no reload`, `one hit kill`, `mod menu`, `game trainer`, `cheat engine`, `memory editor`, `python`, `windows`, `hotkeys`
 
 ---
 
